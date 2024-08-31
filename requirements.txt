@@ -1,2 +1,5 @@
 polars
 unidecode
+BigEDA
+numpy
+pandas
